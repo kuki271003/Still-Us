@@ -1,0 +1,95 @@
+{
+  "project": "Still, Us.",
+  "assets": [
+    {
+      "chapter": "01",
+      "title": "A Late Beginning",
+      "file": "assets/story/01-a-late-beginning.webp",
+      "description": "Electronics-project partners meeting in a golden-hour college lab.",
+      "alt": "A late beginning: the two students meet beside an electronics project workbench.",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "chapter": "02",
+      "title": "Under the Campus Lights",
+      "file": "assets/story/02-under-campus-lights.webp",
+      "description": "The two friends walking and talking under warm campus lamps.",
+      "alt": "Under the campus lights: two college friends walking together at night.",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "chapter": "03",
+      "title": "The Little Cupcake Man",
+      "file": "assets/story/03-the-cupcake-man.webp",
+      "description": "A warm café memory of her drawing a tiny cupcake-man on tissue paper while he watches fondly.",
+      "alt": "At a cozy café, she draws a tiny smiling cupcake-man on tissue paper while he watches with a fond smile.",
+      "width": 1448,
+      "height": 815
+    },
+    {
+      "chapter": "04",
+      "title": "After Hours",
+      "file": "assets/story/04-after-hours.webp",
+      "description": "A cozy split-screen of late-night video calls in two rooms.",
+      "alt": "After hours: the two characters sharing a late-night video call.",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "chapter": "05",
+      "title": "A Small Shift",
+      "file": "assets/story/05-a-small-shift.webp",
+      "description": "A friendly dog surprises her on campus while she reaches for his hand.",
+      "alt": "A small shift: she gets startled by a friendly dog and reaches for him on the campus path.",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "chapter": "06",
+      "title": "When the Story Stumbled",
+      "file": "assets/story/06-when-the-story-stumbled.webp",
+      "description": "A quiet, difficult conversation on a campus terrace at dusk.",
+      "alt": "When the story stumbled: the two friends sit together in a serious conversation at dusk.",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "chapter": "07",
+      "title": "What We Chose to Keep",
+      "file": "assets/story/07-what-we-chose-to-keep.webp",
+      "description": "A reassuring hug on a campus terrace beneath a twilight sky.",
+      "alt": "What we chose to keep: the two characters embrace on a campus terrace at twilight.",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "chapter": "08",
+      "title": "Somewhere Along the Way",
+      "file": "assets/story/08-somewhere-along-the-way.webp",
+      "description": "The pair laughing together on a sunlit campus bench.",
+      "alt": "Somewhere along the way: the two characters share a joyful moment on a campus bench.",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "chapter": "09",
+      "title": "The Day We Rewrote",
+      "file": "assets/story/09-the-day-we-rewrote.webp",
+      "description": "She offers him roses at sunset; his one visible hand rests on his chest in surprise.",
+      "alt": "The day we rewrote: she offers a bouquet of roses while his visible hand rests on his chest.",
+      "width": 1447,
+      "height": 1087
+    },
+    {
+      "chapter": "10",
+      "title": "Still Becoming Us",
+      "file": "assets/story/10-still-becoming-us.webp",
+      "description": "A cozy split-screen long-distance call connected by the same night sky.",
+      "alt": "Still becoming us: the two characters smiling at each other during a long-distance video call.",
+      "width": 1448,
+      "height": 1086
+    }
+  ]
+}
